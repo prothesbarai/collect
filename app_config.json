@@ -1,5 +1,5 @@
 {
-  "marquee": "on",
+  "marquee": "off",
   "slider": "on",
   "newArrivals": "on",
   "bestSeller": "on"

@@ -24,7 +24,7 @@
       "payment_details": "null",
       "customer_id": 140001,
       "payment_type": "cash_on_delivery",
-      "order_from": "Paikaree"
+      "order_from": "Paifast"
     },
     {
       "id": 200002,
@@ -50,7 +50,7 @@
       "payment_details": "null",
       "customer_id": 140002,
       "payment_type": "bkash",
-      "order_from": "Paikaree"
+      "order_from": "Paifast"
     },
     {
       "id": 200003,
@@ -76,7 +76,7 @@
       "payment_details": "null",
       "customer_id": 140003,
       "payment_type": "cash_on_delivery",
-      "order_from": "Paikaree"
+      "order_from": "Paifast"
     },
     {
       "id": 200004,
@@ -102,7 +102,7 @@
       "payment_details": "null",
       "customer_id": 140004,
       "payment_type": "nagad",
-      "order_from": "Paikaree"
+      "order_from": "Paifast"
     },
     {
       "id": 200005,
@@ -128,7 +128,7 @@
       "payment_details": "null",
       "customer_id": 140005,
       "payment_type": "cash_on_delivery",
-      "order_from": "Paikaree"
+      "order_from": "Paifast"
     },
     {
       "id": 200006,
@@ -154,7 +154,7 @@
       "payment_details": "null",
       "customer_id": 140006,
       "payment_type": "bkash",
-      "order_from": "Paikaree"
+      "order_from": "Paifast"
     },
     {
       "id": 200007,
@@ -180,7 +180,7 @@
       "payment_details": "null",
       "customer_id": 140007,
       "payment_type": "cash_on_delivery",
-      "order_from": "Paikaree"
+      "order_from": "Paifast"
     },
     {
       "id": 200008,
@@ -206,7 +206,7 @@
       "payment_details": "null",
       "customer_id": 140008,
       "payment_type": "nagad",
-      "order_from": "Paikaree"
+      "order_from": "Paifast"
     },
     {
       "id": 200009,
@@ -232,7 +232,7 @@
       "payment_details": "null",
       "customer_id": 140009,
       "payment_type": "cash_on_delivery",
-      "order_from": "Paikaree"
+      "order_from": "Paifast"
     },
     {
       "id": 200010,
@@ -258,7 +258,7 @@
       "payment_details": "null",
       "customer_id": 140010,
       "payment_type": "card",
-      "order_from": "Paikaree"
+      "order_from": "Paifast"
     }
   ]
 }

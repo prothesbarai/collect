@@ -2,51 +2,51 @@
   {
     "id": 1,
     "name": "Quinoa Salad",
-    "image": "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    "image": "https://prothesbarai.github.io/collect/category/c1.png"
   },
   {
     "id": 2,
     "name": "Whole Wheat Pasta",
-    "image": "https://images.pexels.com/photos/1054397/pexels-photo-1054397.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    "image": "https://prothesbarai.github.io/collect/category/c2.png"
   },
   {
     "id": 3,
     "name": "Sweet Potato Fries",
-    "image": "https://images.pexels.com/photos/366037/pexels-photo-366037.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    "image": "https://prothesbarai.github.io/collect/category/c3.png"
   },
   {
     "id": 4,
     "name": "Grilled Chicken Sandwich",
-    "image": "https://images.pexels.com/photos/421487/pexels-photo-421487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    "image": "https://prothesbarai.github.io/collect/category/c4.png"
   },
   {
     "id": 5,
     "name": "Fresh Fruits",
-    "image": "https://images.pexels.com/photos/208450/pexels-photo-208450.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    "image": "https://prothesbarai.github.io/collect/category/c6.png"
   },
   {
     "id": 6,
     "name": "Sushi Platter",
-    "image": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    "image": "https://prothesbarai.github.io/collect/category/c7.png"
   },
   {
     "id": 7,
     "name": "Vegetable Stir Fry",
-    "image": "https://images.pexels.com/photos/1435891/pexels-photo-1435891.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    "image": "https://prothesbarai.github.io/collect/category/c8.png"
   },
   {
     "id": 8,
     "name": "Chocolate Cake",
-    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    "image": "https://prothesbarai.github.io/collect/category/c9.png"
   },
   {
     "id": 9,
     "name": "Avocado Toast",
-    "image": "https://images.pexels.com/photos/566566/pexels-photo-566566.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    "image": "https://prothesbarai.github.io/collect/category/c6.png"
   },
   {
     "id": 10,
     "name": "Caesar Salad",
-    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    "image": "https://prothesbarai.github.io/collect/category/c5.png"
   }
 ]

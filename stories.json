@@ -1,0 +1,44 @@
+[
+  [
+    {
+      "image": "assets/images/img.png",
+      "title": "মশা তাড়ানোর লিকুইড রিফিল",
+      "subtitle": "সুরক্ষা দেয় ৬০ রাত পর্যন্ত",
+      "duration": 1
+    },
+    {
+      "image": "assets/images/img_1.png",
+      "title": "Product 2",
+      "subtitle": "Special Offer",
+      "duration": 10
+    }
+  ],
+  [
+    {
+      "image": "assets/images/img_2.png",
+      "title": "Product 3",
+      "subtitle": "Best Quality",
+      "duration": 10
+    },
+    {
+      "image": "assets/images/img_1.png",
+      "title": "Product 4",
+      "subtitle": "Special Offer",
+      "duration": 1
+    }
+  ],
+  [
+    {
+      "image": "assets/images/img.png",
+      "title": "Product 5",
+      "subtitle": "New Arrival",
+      "duration": 5
+    },
+    {
+      "image": "assets/images/img_1.png",
+      "title": "Product 6",
+      "subtitle": "Discount",
+      "duration": 7
+    }
+  ]
+]

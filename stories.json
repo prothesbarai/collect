@@ -1,41 +1,47 @@
 [
   [
     {
-      "image": "assets/images/img.png",
+      "image": "https://img.freepik.com/free-photo/closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head_488145-3540.jpg?semt=ais_hybrid&w=740&q=80",
       "title": "মশা তাড়ানোর লিকুইড রিফিল",
       "subtitle": "সুরক্ষা দেয় ৬০ রাত পর্যন্ত",
       "duration": 1
     },
     {
-      "image": "assets/images/img_1.png",
+      "image": "https://img.freepik.com/free-photo/close-up-chameleon-nature_23-2151917117.jpg",
       "title": "Product 2",
       "subtitle": "Special Offer",
       "duration": 10
     }
   ],
+
+
+  
   [
     {
-      "image": "assets/images/img_2.png",
+      "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/tiger-eyes-looking-from-the-bushes-free-image.jpeg?h=800&quality=80",
       "title": "Product 3",
       "subtitle": "Best Quality",
       "duration": 10
     },
     {
-      "image": "assets/images/img_1.png",
+      "image": "https://img.freepik.com/free-photo/closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head_488145-3540.jpg?semt=ais_hybrid&w=740&q=80",
       "title": "Product 4",
       "subtitle": "Special Offer",
       "duration": 1
     }
   ],
+
+
+  
   [
     {
-      "image": "assets/images/img.png",
+      "image": "https://img.freepik.com/free-photo/close-up-chameleon-nature_23-2151917117.jpg",
       "title": "Product 5",
       "subtitle": "New Arrival",
       "duration": 5
     },
     {
-      "image": "assets/images/img_1.png",
+      "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/tiger-eyes-looking-from-the-bushes-free-image.jpeg?h=800&quality=80",
       "title": "Product 6",
       "subtitle": "Discount",
       "duration": 7

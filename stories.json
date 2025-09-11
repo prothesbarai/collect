@@ -20,6 +20,26 @@
       "subtitle": "Discount",
       "duration": 7,
       "navigatePage": "prothes"
+    },{
+      "image": "https://i.pinimg.com/736x/2d/95/e5/2d95e5886fc4c65a6778b5fee94a7d59.jpg",
+      "title": "মশা তাড়ানোর লিকুইড রিফিল",
+      "subtitle": "সুরক্ষা দেয় ৬০ রাত পর্যন্ত",
+      "duration": 1,
+      "navigatePage": "shreyasi"
+    },
+    {
+      "image": "https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg",
+      "title": "Product 2",
+      "subtitle": "Special Offer",
+      "duration": 10,
+      "navigatePage": "shampa"
+    },
+    {
+      "image": "https://i.pinimg.com/564x/c0/fa/4a/c0fa4a87b82b77195ea807492b1a4e5d.jpg",
+      "title": "Product 6",
+      "subtitle": "Discount",
+      "duration": 7,
+      "navigatePage": "angkan"
     }
   ],
 
@@ -57,6 +77,12 @@
       "subtitle": "Discount",
       "duration": 7,
       "navigatePage": "prothes"
+    },{
+      "image": "https://i.pinimg.com/564x/c0/fa/4a/c0fa4a87b82b77195ea807492b1a4e5d.jpg",
+      "title": "Product 6",
+      "subtitle": "Discount",
+      "duration": 7,
+      "navigatePage": "angkan"
     }
   ]
 

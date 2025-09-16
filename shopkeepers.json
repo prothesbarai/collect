@@ -1,8 +1,8 @@
 [
-  { "id": 1, "name": "Rahim Store", "lat": 23.8103, "lng": 90.4125, "deliveryRange": 100 ,"userImage" : ""},
-  { "id": 2, "name": "Karim Mart", "lat": 23.8115, "lng": 90.4138, "deliveryRange": 50 ,"userImage" : ""},
-  { "id": 3, "name": "Mina Shop", "lat": 23.8070, "lng": 90.4100, "deliveryRange": 200 ,"userImage" : ""},
-  { "id": 4, "name": "Shuvo Electronics", "lat": 23.7649000, "lng": 90.4248000, "deliveryRange": 50 ,"userImage" : ""},
-  { "id": 5, "name": "Nabila Grocery", "lat": 23.7648000, "lng": 90.4247000, "deliveryRange": 60 ,"userImage" : ""},
-  { "id": 6, "name": "Rafiq Store", "lat": 23.7648500, "lng": 90.4247600, "deliveryRange": 20 ,"userImage" : ""}
+  { "id": 1, "name": "Rahim Store", "lat": 23.8103, "lng": 90.4125, "deliveryRange": 100 ,"userImage" : "","description": "Fresh grocery and daily essentials","phone": "+880123456789","rating": 4.5,"openingHours": "8:00 AM - 10:00 PM","isOpen": true},
+  { "id": 2, "name": "Karim Mart", "lat": 23.8115, "lng": 90.4138, "deliveryRange": 50 ,"userImage" : "","description": "Fresh grocery and daily essentials","phone": "+880123456789","rating": 4.5,"openingHours": "8:00 AM - 10:00 PM","isOpen": true},
+  { "id": 3, "name": "Mina Shop", "lat": 23.8070, "lng": 90.4100, "deliveryRange": 200 ,"userImage" : "","description": "Fresh grocery and daily essentials","phone": "+880123456789","rating": 4.5,"openingHours": "8:00 AM - 10:00 PM","isOpen": true},
+  { "id": 4, "name": "Shuvo Electronics", "lat": 23.7649000, "lng": 90.4248000, "deliveryRange": 50 ,"userImage" : "","description": "Fresh grocery and daily essentials","phone": "+880123456789","rating": 4.5,"openingHours": "8:00 AM - 10:00 PM","isOpen": true},
+  { "id": 5, "name": "Nabila Grocery", "lat": 23.7648000, "lng": 90.4247000, "deliveryRange": 60 ,"userImage" : "","description": "Fresh grocery and daily essentials","phone": "+880123456789","rating": 4.5,"openingHours": "8:00 AM - 10:00 PM","isOpen": true},
+  { "id": 6, "name": "Rafiq Store", "lat": 23.7648500, "lng": 90.4247600, "deliveryRange": 20 ,"userImage" : "","description": "Fresh grocery and daily essentials","phone": "+880123456789","rating": 4.5,"openingHours": "8:00 AM - 10:00 PM","isOpen": true}
 ]

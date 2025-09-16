@@ -19,5 +19,26 @@
     "lat": 23.8070,
     "lng": 90.4100,
     "deliveryRange": 200
+  },
+  {
+    "id": 4,
+    "name": "Shuvo Electronics",
+    "lat": 23.7649000,
+    "lng": 90.4248000,
+    "deliveryRange": 50
+  },
+  {
+    "id": 5,
+    "name": "Nabila Grocery",
+    "lat": 23.7648000,
+    "lng": 90.4247000,
+    "deliveryRange": 60
+  },
+  {
+    "id": 6,
+    "name": "Rafiq Store",
+    "lat": 23.7648500,
+    "lng": 90.4247600,
+    "deliveryRange": 20
   }
 ]

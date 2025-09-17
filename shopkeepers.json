@@ -102,9 +102,9 @@
     "openingHours": "8:00 AM - 10:00 PM",
     "isOpen": false,
     "products": [
-      { "id": 601, "name": "Potato (1kg)", "price": 45, "category": "Vegetables", "stock": 90, "image": "potato.jpg" },
-      { "id": 602, "name": "Tomato (1kg)", "price": 80, "category": "Vegetables", "stock": 70, "image": "tomato.jpg" },
-      { "id": 603, "name": "Chili Powder 200g", "price": 110, "category": "Spices", "stock": 50, "image": "chili_powder.jpg" }
+      { "id": 601, "name": "Potato (1kg)", "price": 45, "category": "Vegetables", "stock": 90, "image": "https://i.pinimg.com/736x/d9/85/1b/d9851b99fb4744172c8922b269130c28.jpg" },
+      { "id": 602, "name": "Tomato (1kg)", "price": 80, "category": "Vegetables", "stock": 70, "image": "https://www.fervalle.com/wp-content/uploads/2022/07/580b57fcd9996e24bc43c23b-1024x982.png" },
+      { "id": 603, "name": "Chili Powder 200g", "price": 110, "category": "Spices", "stock": 50, "image": "https://t3.ftcdn.net/jpg/04/98/21/28/360_F_498212891_Gf3f74VZGVGxWq4vkk4zIer0n0HVihA6.jpg" }
     ]
   }
 ]

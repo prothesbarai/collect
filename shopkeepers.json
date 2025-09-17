@@ -66,9 +66,9 @@
     "openingHours": "8:00 AM - 10:00 PM",
     "isOpen": true,
     "products": [
-      { "id": 401, "name": "LED TV 32\"", "price": 18500, "category": "Electronics", "stock": 10, "image": "led_tv_32.jpg" },
+      { "id": 401, "name": "LED TV 32\"", "price": 18500, "category": "Electronics", "stock": 10, "image": "https://www.startech.com.bd/image/cache/catalog/television/smart/sel-32s22ks/sel-32s22ks-01-500x500.webp" },
       { "id": 402, "name": "Electric Kettle", "price": 950, "category": "Electronics", "stock": 35, "image": "https://www.aromaco.com/wp-content/uploads/2021/08/AWK-267SB-1.jpg" },
-      { "id": 403, "name": "Bluetooth Speaker", "price": 1200, "category": "Electronics", "stock": 25, "image": "bluetooth_speaker.jpg" }
+      { "id": 403, "name": "Bluetooth Speaker", "price": 1200, "category": "Electronics", "stock": 25, "image": "https://www.startech.com.bd/image/cache/catalog/speaker/f-and-d/f-and-d-f380-x/f-and-d-f380-x-1-500x500.jpg" }
     ]
   },
   {

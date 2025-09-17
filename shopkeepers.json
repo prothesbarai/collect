@@ -86,7 +86,7 @@
     "products": [
       { "id": 501, "name": "Sugar (1kg)", "price": 120, "category": "Grocery", "stock": 200, "image": "https://c.ndtvimg.com/2023-06/ld5kckc8_sugar_625x300_19_June_23.jpg" },
       { "id": 502, "name": "Salt (1kg)", "price": 25, "category": "Grocery", "stock": 300, "image": "https://www.aci-bd.com/assets/img/business/salt/product1.png" },
-      { "id": 503, "name": "Green Tea 100g", "price": 150, "category": "Beverages", "stock": 60, "image": "green_tea.jpg" }
+      { "id": 503, "name": "Green Tea 100g", "price": 150, "category": "Beverages", "stock": 60, "image": "https://newassets.apollo247.com/cms/inline-images/green_tea%20(1).jpg" }
     ]
   },
   {

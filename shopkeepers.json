@@ -107,7 +107,7 @@
       { "id": 602, "name": "Tomato (1kg)", "price": 80, "category": "Vegetables", "stock": 70, "image": "https://www.fervalle.com/wp-content/uploads/2022/07/580b57fcd9996e24bc43c23b-1024x982.png" },
       { "id": 603, "name": "Chili Powder 200g", "price": 110, "category": "Spices", "stock": 50, "image": "https://t3.ftcdn.net/jpg/04/98/21/28/360_F_498212891_Gf3f74VZGVGxWq4vkk4zIer0n0HVihA6.jpg" },
       { "id": 604, "name": "Ladies Finger", "price": 210, "category": "Vegetables", "stock": 20, "image": "https://www.wmart.com.my/wp-content/uploads/2020/06/Ladys-Finger-Okra.jpg" },
-      { "id": 605, "name": "Ladies Finger", "price": 210, "category": "Vegetables", "stock": 20, "image": "https://www.wmart.com.my/wp-content/uploads/2020/06/Ladys-Finger-Okra.jpg" }
+      { "id": 605, "name": "Carrot", "price": 50, "category": "Vegetables", "stock": 40, "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/10/carrot-juice-732x549-thumbnail.jpg" }
     ]
   }
 ]

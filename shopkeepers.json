@@ -68,7 +68,8 @@
     "products": [
       { "id": 401, "name": "LED TV 32\"", "price": 18500, "category": "Electronics", "stock": 10, "image": "https://www.startech.com.bd/image/cache/catalog/television/smart/sel-32s22ks/sel-32s22ks-01-500x500.webp" },
       { "id": 402, "name": "Electric Kettle", "price": 950, "category": "Electronics", "stock": 35, "image": "https://www.aromaco.com/wp-content/uploads/2021/08/AWK-267SB-1.jpg" },
-      { "id": 403, "name": "Bluetooth Speaker", "price": 1200, "category": "Electronics", "stock": 25, "image": "https://www.startech.com.bd/image/cache/catalog/speaker/f-and-d/f-and-d-f380-x/f-and-d-f380-x-1-500x500.jpg" }
+      { "id": 403, "name": "Bluetooth Speaker", "price": 1200, "category": "Electronics", "stock": 25, "image": "https://www.startech.com.bd/image/cache/catalog/speaker/f-and-d/f-and-d-f380-x/f-and-d-f380-x-1-500x500.jpg" },
+      { "id": 403, "name": "Flipper Zero", "price": 1200, "category": "Electronics", "stock": 25, "image": "https://flipperzero.one/img/tild6566-3434-4266-b037-646663393733__fpr_web_1.jpg" }
     ]
   },
   {
@@ -104,7 +105,7 @@
     "products": [
       { "id": 601, "name": "Potato (1kg)", "price": 45, "category": "Vegetables", "stock": 90, "image": "https://i.pinimg.com/736x/d9/85/1b/d9851b99fb4744172c8922b269130c28.jpg" },
       { "id": 602, "name": "Tomato (1kg)", "price": 80, "category": "Vegetables", "stock": 70, "image": "https://www.fervalle.com/wp-content/uploads/2022/07/580b57fcd9996e24bc43c23b-1024x982.png" },
-      { "id": 603, "name": "Chili Powder 200g", "price": 110, "category": "Spices", "stock": 50, "image": "https://t3.ftcdn.net/jpg/04/98/21/28/360_F_498212891_Gf3f74VZGVGxWq4vkk4zIer0n0HVihA6.jpg" }
+      { "id": 603, "name": "Chili Powder 200g", "price": 110, "category": "Spices", "stock": 50, "image": "https://t3.ftcdn.net/jpg/04/98/21/28/360_F_498212891_Gf3f74VZGVGxWq4vkk4zIer0n0HVihA6.jpg" },
       { "id": 604, "name": "Ladies Finger", "price": 210, "category": "Vegetables", "stock": 20, "image": "https://www.wmart.com.my/wp-content/uploads/2020/06/Ladys-Finger-Okra.jpg" }
     ]
   }

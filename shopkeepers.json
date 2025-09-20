@@ -75,7 +75,8 @@
       { "id": 407, "name": "Tripods", "price": 7000, "category": "Cameras & Photography", "stock": 25, "image": "https://images-cdn.ubuy.co.in/651c4e3618af7d3b3149a063-k-f-concept-94-inch-camera-tripods-4.jpg" },
       { "id": 408, "name": "Refrigerators", "price": 55000, "category": "Home Appliances", "stock": 25, "image": "https://www.lg.com/us/images/refrigerators/md08000177/350.jpg" },
       { "id": 409, "name": "Washing Machines", "price": 25000, "category": "Home Appliances", "stock": 25, "image": "https://www.lg.com/bd/images/washing-machines/md07537005/gallery/F1208NMTS-Washing-Machines-Front-View-D-01.jpg" },
-      { "id": 410, "name": "Microwaves", "price": 15000, "category": "Home Appliances", "stock": 25, "image": "https://m.media-amazon.com/images/I/71YilD6eekL.jpg" }
+      { "id": 410, "name": "Microwaves", "price": 15000, "category": "Home Appliances", "stock": 25, "image": "https://m.media-amazon.com/images/I/71YilD6eekL.jpg" },
+      { "id": 411, "name": "Air Conditioners", "price": 130000, "category": "Home Appliances", "stock": 25, "image": "https://sovpsl.com/wp-content/uploads/2015/11/air-conditioning.jpg" }
     ]
   },
   {

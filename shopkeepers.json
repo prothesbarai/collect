@@ -70,7 +70,8 @@
       { "id": 402, "name": "Electric Kettle", "price": 950, "category": "Electronics", "stock": 35, "image": "https://www.aromaco.com/wp-content/uploads/2021/08/AWK-267SB-1.jpg" },
       { "id": 403, "name": "Bluetooth Speaker", "price": 1200, "category": "Electronics", "stock": 25, "image": "https://www.startech.com.bd/image/cache/catalog/speaker/f-and-d/f-and-d-f380-x/f-and-d-f380-x-1-500x500.jpg" },
       { "id": 404, "name": "Flipper Zero", "price": 32000, "category": "Electronics", "stock": 25, "image": "https://flipperzero.one/img/tild6462-6431-4134-a465-653331386265__125picemul.jpg" },
-      { "id": 405, "name": "Earphones", "price": 1000, "category": "Mobile & Accessories", "stock": 25, "image": "https://www.sencor.com/getmedia/e4ce2635-3cd7-4c68-a975-e42f29ae723e/35059309_1.jpg.aspx?width=2100&height=2100&ext=.j" }
+      { "id": 405, "name": "Earphones", "price": 1000, "category": "Mobile & Accessories", "stock": 25, "image": "https://www.sencor.com/getmedia/e4ce2635-3cd7-4c68-a975-e42f29ae723e/35059309_1.jpg.aspx?width=2100&height=2100&ext=.j" },
+      { "id": 406, "name": "DSLR", "price": 150000, "category": "Cameras & Photography", "stock": 25, "image": "https://images.livemint.com/img/2024/07/24/1600x900/DSLR_camera_buying_guide_1721816125038_1721816133451.jpg" }
     ]
   },
   {

@@ -115,7 +115,10 @@
       { "id": 607, "name": "Cumin Seeds 25g", "price": 90, "category": "Spices", "stock": 50, "image": "https://www.gardenia.net/wp-content/uploads/2025/06/ChatGPT-Image-Jun-12-2025-11_11_32-AM.jpg" },
       { "id": 608, "name": "Coriander Powder 25g", "price": 90, "category": "Spices", "stock": 50, "image": "https://www.shutterstock.com/image-photo/coriander-powder-wooden-bowl-isolated-600nw-2414032011.jpg" },
       { "id": 609, "name": "Cardamom 1kg", "price": 5000, "category": "Spices", "stock": 50, "image": "https://www.dccbazar.com.bd/images/detailed/10/51mBsFX3OzL_espg-gh_udn8-dg.jpg" },
-      { "id": 610, "name": "Cinnamon", "price": 5000, "category": "Spices", "stock": 50, "image": "https://cdn.britannica.com/07/123107-050-1520881F/bark-Cinnamomum-cassia-plant-spice.jpg" }
+      { "id": 610, "name": "Cinnamon", "price": 50, "category": "Spices", "stock": 50, "image": "https://cdn.britannica.com/07/123107-050-1520881F/bark-Cinnamomum-cassia-plant-spice.jpg" },
+      { "id": 611, "name": "Soybean Oil", "price": 100, "category": "Oils & Fats", "stock": 50, "image": "https://www.bashundharafood.com/assets/upload/wallpaper_1597834156.jpg" },
+      { "id": 612, "name": "Sunflower Oil", "price": 210, "category": "Oils & Fats", "stock": 50, "image": "https://www.kraftchemical.com/wp-content/uploads/2023/09/benefits-of-sunflower-oil.jpg" },
+      { "id": 613, "name": "Mustard Oil", "price": 210, "category": "Oils & Fats", "stock": 50, "image": "https://5.imimg.com/data5/SELLER/Default/2024/2/394475028/CQ/OC/LB/121290843/kachi-ghani-mustard-oil.jpeg" }
     ]
   }
 ]

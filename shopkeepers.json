@@ -113,7 +113,9 @@
       { "id": 605, "name": "Carrot", "price": 50, "category": "Vegetables", "stock": 40, "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/10/carrot-juice-732x549-thumbnail.jpg" },
       { "id": 606, "name": "Turmeric Powder 200g", "price": 90, "category": "Spices", "stock": 50, "image": "https://www.viralspices.com/wp-content/uploads/2024/11/Untitled-1-624x312.jpg" },
       { "id": 607, "name": "Cumin Seeds 25g", "price": 90, "category": "Spices", "stock": 50, "image": "https://www.gardenia.net/wp-content/uploads/2025/06/ChatGPT-Image-Jun-12-2025-11_11_32-AM.jpg" },
-      { "id": 607, "name": "Coriander Powder 25g", "price": 90, "category": "Spices", "stock": 50, "image": "https://www.shutterstock.com/image-photo/coriander-powder-wooden-bowl-isolated-600nw-2414032011.jpg" }
+      { "id": 608, "name": "Coriander Powder 25g", "price": 90, "category": "Spices", "stock": 50, "image": "https://www.shutterstock.com/image-photo/coriander-powder-wooden-bowl-isolated-600nw-2414032011.jpg" },
+      { "id": 609, "name": "Cardamom 1kg", "price": 5000, "category": "Spices", "stock": 50, "image": "https://www.dccbazar.com.bd/images/detailed/10/51mBsFX3OzL_espg-gh_udn8-dg.jpg" },
+      { "id": 610, "name": "Cinnamon", "price": 5000, "category": "Spices", "stock": 50, "image": "https://cdn.britannica.com/07/123107-050-1520881F/bark-Cinnamomum-cassia-plant-spice.jpg" }
     ]
   }
 ]

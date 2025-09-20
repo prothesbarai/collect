@@ -89,7 +89,7 @@
       { "id": 502, "name": "Salt (1kg)", "price": 25, "category": "Grocery", "stock": 300, "image": "https://www.aci-bd.com/assets/img/business/salt/product1.png" },
       { "id": 503, "name": "Green Tea 100g", "price": 150, "category": "Beverages", "stock": 60, "image": "https://newassets.apollo247.com/cms/inline-images/green_tea%20(1).jpg" },
       { "id": 504, "name": "Coca-Cola 1L", "price": 60, "category": "Beverages", "stock": 60, "image": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/coca-cola-spiced/coke-product-category-card.png" },
-      { "id": 505, "name": "Pepsi 1L", "price": 70, "category": "Beverages", "stock": 80, "image": "https://unimart.online/public/uploads/products/photos/ftppic/46718.webp" },
+      { "id": 505, "name": "Pepsi 1L", "price": 70, "category": "Beverages", "stock": 80, "image": "https://www.fullburger.com.tr/image/cache/catalog/icecekler/003320-550x550-550x550.jpg" },
       { "id": 505, "name": "Fanta", "price": 70, "category": "Beverages", "stock": 80, "image": "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/tiktok/fanta_old_logo_refresh.jpg" }
     ]
   },

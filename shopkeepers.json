@@ -90,7 +90,7 @@
       { "id": 503, "name": "Green Tea 100g", "price": 150, "category": "Beverages", "stock": 60, "image": "https://newassets.apollo247.com/cms/inline-images/green_tea%20(1).jpg" },
       { "id": 504, "name": "Coca-Cola 1L", "price": 60, "category": "Beverages", "stock": 60, "image": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/coca-cola-spiced/coke-product-category-card.png" },
       { "id": 505, "name": "Pepsi 1L", "price": 70, "category": "Beverages", "stock": 80, "image": "https://www.fullburger.com.tr/image/cache/catalog/icecekler/003320-550x550-550x550.jpg" },
-      { "id": 505, "name": "Fanta", "price": 70, "category": "Beverages", "stock": 80, "image": "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/tiktok/fanta_old_logo_refresh.jpg" }
+      { "id": 506, "name": "Fanta", "price": 70, "category": "Beverages", "stock": 80, "image": "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/tiktok/fanta_old_logo_refresh.jpg" }
     ]
   },
   {
@@ -110,7 +110,10 @@
       { "id": 602, "name": "Tomato (1kg)", "price": 80, "category": "Vegetables", "stock": 70, "image": "https://www.fervalle.com/wp-content/uploads/2022/07/580b57fcd9996e24bc43c23b-1024x982.png" },
       { "id": 603, "name": "Chili Powder 200g", "price": 110, "category": "Spices", "stock": 50, "image": "https://t3.ftcdn.net/jpg/04/98/21/28/360_F_498212891_Gf3f74VZGVGxWq4vkk4zIer0n0HVihA6.jpg" },
       { "id": 604, "name": "Ladies Finger", "price": 210, "category": "Vegetables", "stock": 20, "image": "https://www.wmart.com.my/wp-content/uploads/2020/06/Ladys-Finger-Okra.jpg" },
-      { "id": 605, "name": "Carrot", "price": 50, "category": "Vegetables", "stock": 40, "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/10/carrot-juice-732x549-thumbnail.jpg" }
+      { "id": 605, "name": "Carrot", "price": 50, "category": "Vegetables", "stock": 40, "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/10/carrot-juice-732x549-thumbnail.jpg" },
+      { "id": 606, "name": "Turmeric Powder 200g", "price": 90, "category": "Spices", "stock": 50, "image": "https://www.viralspices.com/wp-content/uploads/2024/11/Untitled-1-624x312.jpg" },
+      { "id": 607, "name": "Cumin Seeds 25g", "price": 90, "category": "Spices", "stock": 50, "image": "https://www.gardenia.net/wp-content/uploads/2025/06/ChatGPT-Image-Jun-12-2025-11_11_32-AM.jpg" },
+      { "id": 607, "name": "Coriander Powder 25g", "price": 90, "category": "Spices", "stock": 50, "image": "https://www.shutterstock.com/image-photo/coriander-powder-wooden-bowl-isolated-600nw-2414032011.jpg" }
     ]
   }
 ]

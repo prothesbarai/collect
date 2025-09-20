@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "name": "Karim Mart",
+    "name": "Karim Store",
     "lat": 23.8115,
     "lng": 90.4138,
     "deliveryRange": 50,
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "name": "Shuvo Electronics",
+    "name": "Shuvo Store",
     "lat": 23.7649,
     "lng": 90.4248,
     "deliveryRange": 50,
@@ -74,7 +74,7 @@
   },
   {
     "id": 5,
-    "name": "Nabila Grocery",
+    "name": "Nabila Store",
     "lat": 23.7648,
     "lng": 90.4247,
     "deliveryRange": 60,

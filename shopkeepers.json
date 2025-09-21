@@ -58,7 +58,7 @@
     "name": "Shuvo Store",
     "lat": 23.7649,
     "lng": 90.4248,
-    "deliveryRange": 50,
+    "deliveryRange": 200,
     "userImage": "",
     "description": "Fresh grocery and daily essentials",
     "phone": "+880123456789",

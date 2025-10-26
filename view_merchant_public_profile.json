@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim Store",
+    "lat": 23.8884,
+    "lng": 90.8467,
+    "deliveryRange": 100,
+    "userImage": "",
+    "description": "Fresh grocery and daily essentials",
+    "phone": "+880123456789",
+    "rating": 4.5,
+    "openingHours": "8:00 AM - 10:00 PM",
+    "isOpen": true,
+    "products": [
+      { "id": 101, "name": "Basmati Rice 5kg", "price": 550, "category": "Grocery", "stock": 120, "image": "basmati_rice.jpg", "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis metus vel gravida varius. Nulla facilisi. Morbi vehicula suscipit eros, vitae tristique libero venenatis sed. Cras euismod, magna nec elementum lacinia, lectus sapien posuere arcu, ut accumsan metus urna ut velit. Vestibulum tincidunt interdum sapien, a dapibus velit consequat nec. Curabitur rhoncus malesuada dui, id imperdiet risus sodales nec. Suspendisse at magna vel orci venenatis tristique. Vivamus efficitur dapibus purus, sed tempor quam eleifend eget. Ut a lacus ac nisl aliquam fermentum. Proin a justo vel justo pretium congue. Vestibulum in nisl at elit viverra viverra a ut turpis."},
+      { "id": 102, "name": "Mustard Oil 1L", "price": 180, "category": "Grocery", "stock": 80, "image": "mustard_oil.jpg", "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis metus vel gravida varius. Nulla facilisi. Morbi vehicula suscipit eros, vitae tristique libero venenatis sed. Cras euismod, magna nec elementum lacinia, lectus sapien posuere arcu, ut accumsan metus urna ut velit. Vestibulum tincidunt interdum sapien, a dapibus velit consequat nec. Curabitur rhoncus malesuada dui, id imperdiet risus sodales nec. Suspendisse at magna vel orci venenatis tristique. Vivamus efficitur dapibus purus, sed tempor quam eleifend eget. Ut a lacus ac nisl aliquam fermentum. Proin a justo vel justo pretium congue. Vestibulum in nisl at elit viverra viverra a ut turpis."},
+      { "id": 103, "name": "Fresh Milk 1L", "price": 70, "category": "Dairy", "stock": 50, "image": "fresh_milk.jpg", "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis metus vel gravida varius. Nulla facilisi. Morbi vehicula suscipit eros, vitae tristique libero venenatis sed. Cras euismod, magna nec elementum lacinia, lectus sapien posuere arcu, ut accumsan metus urna ut velit. Vestibulum tincidunt interdum sapien, a dapibus velit consequat nec. Curabitur rhoncus malesuada dui, id imperdiet risus sodales nec. Suspendisse at magna vel orci venenatis tristique. Vivamus efficitur dapibus purus, sed tempor quam eleifend eget. Ut a lacus ac nisl aliquam fermentum. Proin a justo vel justo pretium congue. Vestibulum in nisl at elit viverra viverra a ut turpis."}
+    ]
+  }
+]

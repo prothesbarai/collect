@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>PAI Merchant - Premium Landing Page</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{
+--primary:#2563eb;
+--secondary:#60a5fa;
+--dark:#0f172a;
+--text:#475569;
+--bg:#f8fafc;
+}
+
+html,
+body{
+width:100%;
+overflow-x:hidden !important;
+margin:0;
+padding:0;
+}
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Inter',sans-serif;
+}
+
+body{
+background:var(--bg);
+color:var(--dark);
+overflow-x:hidden !important;
+position:relative;
+}
+
+img,
+video,
+iframe{
+max-width:100%;
+height:auto;
+display:block;
+}
+
+.container,
+.container-fluid{
+width:100%;
+max-width:100%;
+}
+
+.row{
+--bs-gutter-x:1rem;
+}
+
+.hero{
+background:linear-gradient(180deg,#ffffff,#eef5ff);
+padding:90px 0 60px;
+position:relative;
+overflow:hidden;
+}
+
+.hero::before{
+content:'';
+position:absolute;
+right:-150px;
+top:-150px;
+width:300px;
+height:300px;
+border-radius:50%;
+background:radial-gradient(circle,#93c5fd,transparent 70%);
+pointer-events:none;
+}
+
+.badge-custom{
+background:#dbeafe;
+color:#1d4ed8;
+padding:10px 16px;
+border-radius:999px;
+font-weight:700;
+display:inline-block;
+}
+
+.hero h1{
+font-size:clamp(2.5rem,7vw,5rem);
+font-weight:900;
+line-height:1.05;
+}
+
+.hero p{
+font-size:1.1rem;
+color:#64748b;
+}
+
+.btn-main{
+background:linear-gradient(135deg,#2563eb,#3b82f6);
+color:#fff;
+border:none;
+padding:14px 28px;
+border-radius:14px;
+}
+
+.dashboard-card,
+.feature-card,
+.price-card,
+.testimonial-card{
+background:#fff;
+border-radius:24px;
+box-shadow:0 10px 40px rgba(0,0,0,.06);
+}
+
+.dashboard-card{
+padding:24px;
+}
+
+.section{
+padding:90px 0;
+}
+
+.section-title{
+font-size:2.6rem;
+font-weight:800;
+text-align:center;
+margin-bottom:15px;
+}
+
+.section-sub{
+max-width:700px;
+margin:auto;
+text-align:center;
+color:#64748b;
+margin-bottom:50px;
+}
+
+.stat{
+padding:24px;
+text-align:center;
+}
+
+.stat h2{
+font-weight:900;
+color:#2563eb;
+}
+
+.feature-card,
+.price-card,
+.testimonial-card{
+padding:30px;
+height:100%;
+}
+
+.feature-icon{
+font-size:34px;
+margin-bottom:15px;
+}
+
+.video-wrap{
+overflow:hidden;
+border-radius:24px;
+box-shadow:0 20px 50px rgba(0,0,0,.08);
+}
+
+.video-wrap iframe{
+width:100%;
+aspect-ratio:16/9;
+border:none;
+}
+
+.price-featured{
+background:linear-gradient(135deg,#2563eb,#3b82f6);
+color:#fff;
+transform:scale(1.03);
+}
+
+.cta{
+background:linear-gradient(135deg,#2563eb,#3b82f6);
+color:#fff;
+border-radius:30px;
+padding:70px 30px;
+text-align:center;
+}
+
+footer{
+background:#0f172a;
+color:#fff;
+padding:40px 0;
+}
+
+/* MOBILE */
+
+@media (max-width:991px){
+
+.hero{
+padding:70px 0 50px;
+text-align:center;
+}
+
+.hero h1{
+font-size:2.5rem;
+}
+
+.dashboard-card{
+margin-top:30px;
+}
+
+.price-featured{
+transform:none;
+}
+
+}
+
+@media (max-width:768px){
+
+.hero{
+padding:60px 0 40px;
+}
+
+.hero h1{
+font-size:2rem;
+line-height:1.2;
+}
+
+.hero p{
+font-size:15px;
+}
+
+.section{
+padding:60px 0;
+}
+
+.section-title{
+font-size:1.8rem;
+}
+
+.section-sub{
+font-size:14px;
+padding:0 10px;
+}
+
+.dashboard-card,
+.feature-card,
+.price-card,
+.testimonial-card{
+padding:20px;
+border-radius:18px;
+}
+
+.stat{
+padding:15px;
+}
+
+.stat h2{
+font-size:1.5rem;
+}
+
+.btn-main,
+.btn-outline-primary{
+width:100%;
+margin-bottom:10px;
+}
+
+.video-wrap{
+border-radius:16px;
+}
+
+.video-wrap iframe{
+height:220px;
+aspect-ratio:auto;
+}
+
+.cta{
+padding:40px 20px;
+}
+
+.cta h2{
+font-size:1.7rem;
+}
+
+footer{
+font-size:14px;
+}
+
+}
+
+@media (max-width:480px){
+
+.hero h1{
+font-size:1.8rem;
+}
+
+.section-title{
+font-size:1.6rem;
+}
+
+.badge-custom{
+font-size:12px;
+padding:8px 12px;
+}
+
+.video-wrap iframe{
+height:200px;
+}
+
+}
+</style>
+</head>
+<body>
+
+<section class="hero">
+<div class="container">
+<div class="row align-items-center g-5">
+<div class="col-lg-6">
+<span class="badge-custom">🚀 Trusted by Modern Merchants</span>
+<h1 class="mt-4">Grow Your Business With PAI Merchant</h1>
+<p class="mt-3">Create your store, upload products, manage inventory, track sales and scale your business from one powerful merchant platform.</p>
+<div class="mt-4">
+<button class="btn btn-main me-2">Create Account</button>
+<button class="btn btn-outline-primary">Watch Demo</button>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="dashboard-card">
+<h4>Merchant Dashboard</h4>
+<div class="row mt-4">
+<div class="col-6"><div class="stat"><h2>10K+</h2><p>Merchants</p></div></div>
+<div class="col-6"><div class="stat"><h2>1M+</h2><p>Orders</p></div></div>
+<div class="col-6"><div class="stat"><h2>500K+</h2><p>Products</p></div></div>
+<div class="col-6"><div class="stat"><h2>99.9%</h2><p>Uptime</p></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<h2 class="section-title">Platform Overview</h2>
+<p class="section-sub">See how merchants manage products, orders and inventory.</p>
+<div class="video-wrap">
+<iframe 
+  src="https://www.youtube.com/embed/4b-YTiMKW6k"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+</div>
+</div>
+</section>
+
+<section class="section bg-white">
+<div class="container">
+<h2 class="section-title">How It Works</h2>
+<div class="row g-4">
+<div class="col-md-3"><div class="feature-card"><div class="feature-icon">🏪</div><h5>Store Settings</h5><p>Configure store information, logo and branding.</p></div></div>
+<div class="col-md-3"><div class="feature-card"><div class="feature-icon">📦</div><h5>Single Upload</h5><p>Add products one by one with images and stock.</p></div></div>
+<div class="col-md-3"><div class="feature-card"><div class="feature-icon">📊</div><h5>Bulk Upload</h5><p>Download template and import thousands of products.</p></div></div>
+<div class="col-md-3"><div class="feature-card"><div class="feature-icon">🚀</div><h5>Start Selling</h5><p>Manage orders and grow revenue.</p></div></div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<h2 class="section-title">Powerful Features</h2>
+<div class="row g-4">
+<div class="col-md-4"><div class="feature-card"><div class="feature-icon">📈</div><h5>Analytics</h5><p>Track growth with reports and insights.</p></div></div>
+<div class="col-md-4"><div class="feature-card"><div class="feature-icon">📦</div><h5>Inventory</h5><p>Real-time stock management.</p></div></div>
+<div class="col-md-4"><div class="feature-card"><div class="feature-icon">👥</div><h5>Customers</h5><p>Manage customer relationships.</p></div></div>
+</div>
+</div>
+</section>
+
+<section class="section bg-white">
+<div class="container">
+<h2 class="section-title">Packages</h2>
+<div class="row g-4">
+<div class="col-lg-3"><div class="price-card"><h4>Starter</h4><h2>$9</h2><p>100 Products</p></div></div>
+<div class="col-lg-3"><div class="price-card"><h4>Standard</h4><h2>$29</h2><p>1000 Products</p></div></div>
+<div class="col-lg-3"><div class="price-card price-featured"><h4>Premium</h4><h2>$79</h2><p>Unlimited Products</p></div></div>
+<div class="col-lg-3"><div class="price-card"><h4>Enterprise</h4><h2>Custom</h2><p>Advanced Integrations</p></div></div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<h2 class="section-title">Testimonials</h2>
+<div class="row g-4">
+<div class="col-md-4"><div class="testimonial-card">"Very easy to manage products and orders."</div></div>
+<div class="col-md-4"><div class="testimonial-card">"Bulk upload saves us a lot of time."</div></div>
+<div class="col-md-4"><div class="testimonial-card">"Clean dashboard and great reporting."</div></div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<div class="cta">
+<h2>Start Growing Your Business Today</h2>
+<p>Join thousands of merchants using PAI Merchant.</p>
+<button class="btn btn-light btn-lg">Create Merchant Account</button>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container text-center">© 2026 PAI Merchant. All Rights Reserved.</div>
+</footer>
+
+</body>
+</html>

@@ -3,24 +3,24 @@
     "backgroundColor": "#D81B60",
     "title": "Here's 50% off & free",
     "subtitle": "delivery on your first order!",
-    "imageAsset": "assets/promo/pizza_promo.jpg"
+    "image": "https://prothesbarai.github.io/collect/promo/pizza_promo.jpg"
   },
   {
     "backgroundColor": "#E65100",
     "title": "Craving a Burger?",
     "subtitle": "Get 20% off on premium burgers",
-    "imageAsset": "assets/promo/burger_promo.jpg"
+    "image": "https://prothesbarai.github.io/collect/promo/burger_promo.jpg"
   },
   {
     "backgroundColor": "#2E7D32",
     "title": "Fresh Groceries",
     "subtitle": "Delivered to your door in 30 mins",
-    "imageAsset": "assets/promo/grocery_promo.jpg"
+    "image": "https://prothesbarai.github.io/collect/promo/grocery_promo.jpg"
   },
   {
     "backgroundColor": "#1565C0",
     "title": "Thirsty?",
     "subtitle": "Cool drinks for hot days",
-    "imageAsset": "assets/promo/drinks_promo.jpg"
+    "image": "https://prothesbarai.github.io/collect/promo/drinks_promo.jpg"
   }
 ]
